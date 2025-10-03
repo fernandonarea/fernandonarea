@@ -55,7 +55,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=fernandonarea&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/fernandonarea)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=fernandonarea&theme=material-palenight)](https://github.com/fernandonarea)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=fernandonarea&theme=material-palenight&hide_border=true)](https://github.com/fernandonarea)
 </div>
-
 
