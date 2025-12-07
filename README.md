@@ -18,6 +18,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   - Api design and security
   - React good practices
   - Web development
+  - Data Science
 
 
 ## My Skills Include
